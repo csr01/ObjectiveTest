@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectiveTest.JogoGourmet", "ObjectiveTest.JogoGourmet\ObjectiveTest.JogoGourmet.csproj", "{BDE73675-595F-4BD2-901C-1907B1019751}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE73675-595F-4BD2-901C-1907B1019751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE73675-595F-4BD2-901C-1907B1019751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE73675-595F-4BD2-901C-1907B1019751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE73675-595F-4BD2-901C-1907B1019751}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC46C191-A10A-46D3-863E-A72EF4293408}
+	EndGlobalSection
+EndGlobal
